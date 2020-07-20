@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jyiL&show_icons=true&theme=onedark)](https://github.com/jyiL)
+[![Avril's github stats](https://github-readme-stats.vercel.app/api?username=jyiL&show_icons=true&theme=onedark)](https://github.com/jyiL)
 
 
